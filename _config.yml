@@ -1,11 +1,11 @@
 # Site settings
 title: Fclef
-SEOTitle: 房子的博客 | BY Fclef
+SEOTitle: 房子的博客 | Fclef Blog
 header-img: img/post-bg-desk.jpg
 email: 1121181304@qq.com
 description: "Every failure is leading towards success."
 keyword: "Java, AI, JS, Python"
-url: "http://mr-fclef.github.io"          # your host, for absolute URL
+url: "http://fclefang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/fclefang/fclefang.github.io.git" # you code repository
 
