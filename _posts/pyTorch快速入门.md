@@ -7,8 +7,8 @@ author:     fclef
 header-img: img/post-bg-universe.jpg
 catalog: 	 true
 tags:
-​    - AI
-​    - Pytorch
+    - AI
+    - Pytorch
 ---
 
 # Pytorch 快速入门
