@@ -1,4 +1,4 @@
-\---
+---
 
 layout:     post
 
@@ -16,17 +16,15 @@ catalog: true
 
 tags:
 
-​    \- AI
+​    - AI
 
-​    \- Pytorch
+​    - Pytorch
 
-​    \- Notes
+​    - Notes
 
-\---
+---
 
 # 深度学习介绍
-
-
 
 ## 人工智能、机器学习与深度学习
 
