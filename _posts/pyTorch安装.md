@@ -1,27 +1,14 @@
 ---
-
 layout:     post
-
 title:      深度学习介绍
-
 subtitle:   Pytorch介绍安装
-
 date:       2019-10-2
-
 author:     fclef
-
 header-img: img/post-bg-universe.jpg
-
-catalog: true
-
+catalog: 	 true
 tags:
-
-​    - AI
-
-​    - Pytorch
-
-​    - Notes
-
+    - AI
+    - Pytorch
 ---
 
 # 深度学习介绍
